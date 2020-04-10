@@ -1,8 +1,8 @@
 # self-development-books
-## Pai rico Pai pobre  
-Lição 1: Os ricos não trabalham pelo dinheiro  
-Lição 2: Para que alfabetização financeira?  
-Lição 3: Cuide de seus negócios  
-Lição 4: A história dos impostos e o poder da sociedade anônima  
-Lição 5: Os ricos inventam dinheiro  
-Lição 6:Trabalhe para aprender — não trabalhe pelo dinheiro  
+## Rich Dad Poor Dad
+Lesson 1: The rich don't work for money  
+Lesson 2: For what financial literacy?  
+Lesson 3: Take care of your business  
+Lesson 4: The history of taxes and the power of corporation  
+Lesson 5: The rich make money  
+Lesson 6: Work to learn - don't work for money  
