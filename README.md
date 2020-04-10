@@ -1,4 +1,4 @@
-## Rich Dad Poor Dad
+## Rich Dad Poor Dad (Robert Kiyosaki)
 
  - The rich don't work for money
  - Take care of your business   
